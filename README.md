@@ -5,4 +5,4 @@
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tonlopes21&layout=compact&langs_count= 7 & theme = dracula" />
 </div>
 <div style = "display: inline_block"> <br>
-  <img align = "center" alt = "Nilton Lopes" height = "200" width = "130" src = "https://abeinfobrasil.com.br/wp-content/uploads/2021/03/1-56.jpg ">
+  <img align = "center" alt = "Nilton Lopes"  width = "400" src = "https://abeinfobrasil.com.br/wp-content/uploads/2021/03/1-56.jpg ">
